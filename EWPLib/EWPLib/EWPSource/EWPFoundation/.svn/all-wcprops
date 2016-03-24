@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/EWPLib/EWPLib/EWPSource/EWPFoundation
+END
+NSString+URL.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/EWPLib/EWPLib/EWPSource/EWPFoundation/NSString+URL.m
+END
+NSMutableDictionary+GTMBase64.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/EWPLib/EWPLib/EWPSource/EWPFoundation/NSMutableDictionary+GTMBase64.m
+END
+NSString+MD5.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/EWPLib/EWPLib/EWPSource/EWPFoundation/NSString+MD5.m
+END
+UILabel+StringFrame.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/EWPLib/EWPLib/EWPSource/EWPFoundation/UILabel+StringFrame.m
+END
+NSData+AES.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/EWPLib/EWPLib/EWPSource/EWPFoundation/NSData+AES.m
+END
+NSString+DES.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/EWPLib/EWPLib/EWPSource/EWPFoundation/NSString+DES.m
+END
+NSString-HexConversion.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/EWPLib/EWPLib/EWPSource/EWPFoundation/NSString-HexConversion.m
+END
+NSString+Date.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/EWPLib/EWPLib/EWPSource/EWPFoundation/NSString+Date.m
+END
+NSAttributedString+Attributes.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/EWPLib/EWPLib/EWPSource/EWPFoundation/NSAttributedString+Attributes.m
+END
+NSData+DES.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/EWPLib/EWPLib/EWPSource/EWPFoundation/NSData+DES.m
+END

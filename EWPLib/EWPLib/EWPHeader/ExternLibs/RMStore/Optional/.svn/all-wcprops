@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/EWPLib/EWPLib/EWPHeader/ExternLibs/RMStore/Optional
+END
+RMAppReceipt.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/EWPLib/EWPLib/EWPHeader/ExternLibs/RMStore/Optional/RMAppReceipt.h
+END
+RMStoreTransactionReceiptVerificator.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/EWPLib/EWPLib/EWPHeader/ExternLibs/RMStore/Optional/RMStoreTransactionReceiptVerificator.h
+END
+RMStoreKeychainPersistence.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/EWPLib/EWPLib/EWPHeader/ExternLibs/RMStore/Optional/RMStoreKeychainPersistence.h
+END
+RMStoreTransaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/EWPLib/EWPLib/EWPHeader/ExternLibs/RMStore/Optional/RMStoreTransaction.h
+END
+AppleIncRootCertificate.cer
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/EWPLib/EWPLib/EWPHeader/ExternLibs/RMStore/Optional/AppleIncRootCertificate.cer
+END
+RMStoreAppReceiptVerificator.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/EWPLib/EWPLib/EWPHeader/ExternLibs/RMStore/Optional/RMStoreAppReceiptVerificator.h
+END
+RMStoreUserDefaultsPersistence.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/EWPLib/EWPLib/EWPHeader/ExternLibs/RMStore/Optional/RMStoreUserDefaultsPersistence.h
+END

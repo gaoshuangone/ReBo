@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>gaos1</string>
+			<key>psd</key>
+			<string>111111</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>gaos2</string>
+			<key>psd</key>
+			<string>111111</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>gaos3</string>
+			<key>psd</key>
+			<string>111111</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>gaos5</string>
+			<key>psd</key>
+			<string>111111</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>gaos6</string>
+			<key>psd</key>
+			<string>111111</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ios001</string>
+			<key>psd</key>
+			<string>111111</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>congtc001</string>
+			<key>psd</key>
+			<string>111111</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>gaos1</string>
+			<key>psd</key>
+			<string>111111</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>gaos2</string>
+			<key>psd</key>
+			<string>111111</string>
+		</dict>
+	</array>
+</array>
+</plist>

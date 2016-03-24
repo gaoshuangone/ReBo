@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/EWPLib/EWPLib/EWPSource/ExternLibs/AFNetworking/UIKit+AFNetworking
+END
+AFNetworkActivityIndicatorManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/EWPLib/EWPLib/EWPSource/ExternLibs/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+END
+UIImageView+AFNetworking.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/EWPLib/EWPLib/EWPSource/ExternLibs/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+END
+UIProgressView+AFNetworking.m
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/EWPLib/EWPLib/EWPSource/ExternLibs/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+END
+UIRefreshControl+AFNetworking.m
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/EWPLib/EWPLib/EWPSource/ExternLibs/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m
+END
+UIAlertView+AFNetworking.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/EWPLib/EWPLib/EWPSource/ExternLibs/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m
+END
+UIActivityIndicatorView+AFNetworking.m
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/EWPLib/EWPLib/EWPSource/ExternLibs/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+END
+UIWebView+AFNetworking.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/EWPLib/EWPLib/EWPSource/ExternLibs/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m
+END
+UIButton+AFNetworking.m
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/EWPLib/EWPLib/EWPSource/ExternLibs/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+END

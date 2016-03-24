@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ios/!svn/ver/1457/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU
+END
+msstrutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/msstrutils.h
+END
+speex_preprocess.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/speex_preprocess.h
+END
+alldescs.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/alldescs.h
+END
+msiphone_video_playerhelp.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/msiphone_video_playerhelp.h
+END
+allfilters.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/allfilters.h
+END
+msiphone_audio_record.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/msiphone_audio_record.h
+END
+mspktqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/mspktqueue.h
+END
+msconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/msconfig.h
+END
+msplaysingle.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/msplaysingle.h
+END
+msencodesend.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/msencodesend.h
+END
+msiphone_audio_recorddb.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/msiphone_audio_recorddb.h
+END
+AudioMedia_ios.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/AudioMedia_ios.h
+END
+mssndcard.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/mssndcard.h
+END
+msiphone_video_recordhelp.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/msiphone_video_recordhelp.h
+END
+msticker.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/msticker.h
+END
+speex_echo.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/speex_echo.h
+END
+msiphone_audio_playsensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/msiphone_audio_playsensor.h
+END
+msinterfaces.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/msinterfaces.h
+END
+msiphone_video_player.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/msiphone_video_player.h
+END
+msport.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/msport.h
+END
+mscore.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/mscore.h
+END
+libseeku.a
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ios/!svn/ver/1457/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/libseeku.a
+END
+msdecoderecv.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/msdecoderecv.h
+END
+msiphone_video_record.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/msiphone_video_record.h
+END
+msvideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/msvideo.h
+END
+msiphone_audiocall_player.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/msiphone_audiocall_player.h
+END
+seeku.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ios/!svn/ver/1291/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/seeku.h
+END
+msiphone_audioroom_player.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/msiphone_audioroom_player.h
+END
+msiphone_audiounit_player.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/msiphone_audiounit_player.h
+END
+msjava.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/msjava.h
+END
+mslog.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/mslog.h
+END
+msqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/msqueue.h
+END
+msiphone_audioqueue_player.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/msiphone_audioqueue_player.h
+END
+msfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/msfilter.h
+END
+mscommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/LibSeekU/mscommon.h
+END

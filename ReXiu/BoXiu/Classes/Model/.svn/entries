@@ -1,0 +1,834 @@
+10
+
+dir
+1519
+https://gaos@192.168.1.225/svn/ios/branches/ReXiu2.1.0/ReXiu/BoXiu/Classes/Model
+https://gaos@192.168.1.225/svn/ios
+
+
+
+2016-03-16T01:51:02.017000Z
+1512
+gaos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4151f5ca-1f8f-114c-bab6-b7b6c05e1976
+
+StarGiftRankModel
+dir
+
+QueryStarModel
+dir
+
+GetVerifyCodeModel
+dir
+
+ConfirmTxModel.h
+file
+
+
+
+
+2016-03-07T10:15:24.000000Z
+fcdc4e38ee3606479d4c0036140a40e9
+2015-12-08T11:09:11.161620Z
+900
+gaos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+201
+
+UpdataPersonInfo
+dir
+
+CarOrderModel
+dir
+
+BroadcastModel
+dir
+
+ThirdLoginModel
+dir
+
+ScrollMessageModel
+dir
+
+GetPraisenumModel
+dir
+
+GetRecommendStarModel
+dir
+
+HeartModel
+dir
+
+ConfirmTxModel.m
+file
+
+
+
+
+2016-03-07T10:15:24.000000Z
+ab730cca87520477bd60c5cf44a898a7
+2015-12-08T11:09:11.161620Z
+900
+gaos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+414
+
+GetConfigModel
+dir
+
+TheCarModel
+dir
+
+UserEnterRoomModel
+dir
+
+superRankModel
+dir
+
+ShowTimeRankModel
+dir
+
+PosterModel
+dir
+
+TakeoutModel
+dir
+
+SetAutoRegistPwdModel
+dir
+
+WeixinPayModel
+dir
+
+IdentityVerifyModel
+dir
+
+TakeBackHistary.h
+file
+
+
+
+
+2016-03-07T10:15:24.000000Z
+78a8b20e391c767d06144420ba31bd0a
+2015-12-08T11:06:17.814116Z
+894
+gaos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+971
+
+HallModel
+dir
+
+RechargeModel
+dir
+
+CheckupModel
+dir
+
+TakeBackHistary.m
+file
+
+
+
+
+2016-03-07T10:15:24.000000Z
+ddf1abd7f6587d8342aa554aa8f475ce
+2015-12-08T11:06:17.814116Z
+894
+gaos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2739
+
+updateIntroductionmodel
+dir
+
+StopLIvingModel.h
+file
+
+
+
+
+2016-03-07T10:15:24.000000Z
+205b50b75975280eb4ce01b6a4e85615
+2015-10-29T07:38:29.062073Z
+631
+gaos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+204
+
+QueryLiveSchedulesModel
+dir
+
+InviterFriend
+dir
+
+SignInModel
+dir
+
+PageQueryModel.h
+file
+
+
+
+
+2016-03-07T10:15:24.000000Z
+a0fbd9f68daae1bf3bb907d1cbfd231b
+2015-12-08T11:06:17.814116Z
+894
+gaos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+915
+
+StopLIvingModel.m
+file
+
+
+
+
+2016-03-07T10:15:24.000000Z
+5a2bda109bd867d607e1febb9a6d3b3d
+2015-10-29T07:38:29.062073Z
+631
+gaos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+422
+
+GetUserInfoModel
+dir
+
+TopProgramModel
+dir
+
+SpecialRankModel
+dir
+
+BindVerifyCodeModel
+dir
+
+GetOneLevelCategoryStarListModel
+dir
+
+PageQueryModel.m
+file
+
+
+
+
+2016-03-07T10:15:24.000000Z
+6bc01a20c4f781ed13fe5ee73962d4e7
+2015-12-08T11:06:17.814116Z
+894
+gaos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4637
+
+QueryGift
+dir
+
+HideRechargeMenuModel
+dir
+
+GetShowTimeStateModel
+dir
+
+AuthModel
+dir
+
+ChoseMusicModel
+dir
+
+GiveGiftModel
+dir
+
+GlobalMessageModel
+dir
+
+ModifyPasswordModel
+dir
+
+BuyLiangModel
+dir
+
+GetApproveModel
+dir
+
+GetRoomImageModel
+dir
+
+LevelUpgradeModel
+dir
+
+RoomMessageModel
+dir
+
+SofaListModel
+dir
+
+RegisterModel
+dir
+
+FeedBackModel
+dir
+
+InitViewModel.h
+file
+
+
+
+
+2016-03-07T10:15:24.000000Z
+165ed1b929c6daf8259717d06535982b
+2015-12-08T11:06:17.814116Z
+894
+gaos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+199
+
+WeixinOrderqueryModel
+dir
+
+VersionModel
+dir
+
+FreeTicketModel
+dir
+
+ShowTimeEndModel
+dir
+
+PublicTalkSettingModel
+dir
+
+CrownModel
+dir
+
+ShowTimeDataModel
+dir
+
+InitViewModel.m
+file
+
+
+
+
+2016-03-07T10:15:24.000000Z
+3f50f35641722eaa076f5ad7a0b14676
+2015-12-08T11:06:17.814116Z
+894
+gaos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+410
+
+ActivityModel
+dir
+
+GetTradeNoModel
+dir
+
+GetStarPraiseNumModel
+dir
+
+AttentionNotifyModel
+dir
+
+GetTwoLevelCategoryModel
+dir
+
+SetInvisibleModel
+dir
+
+SuperRankModel.h
+file
+
+
+
+
+2016-03-07T10:15:24.000000Z
+6c140058acfa1223aeb0499eef3f60bf
+2016-03-02T02:44:10.449650Z
+1416
+wangbw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+199
+
+QueryMusicListModel
+dir
+
+GetSystemTimeModel
+dir
+
+GetUserCarModel
+dir
+
+BindMobileModel
+dir
+
+QueryOnLineStarModel
+dir
+
+ResetPasswordModel
+dir
+
+SuperRankModel.m
+file
+
+
+
+
+2016-03-07T10:15:24.000000Z
+523581ac4a8958da573c36f28a0ecb13
+2016-03-02T02:44:10.449650Z
+1416
+wangbw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+197
+
+GlobalMessageMusicModel
+dir
+
+GetOneLevelCategoryModel
+dir
+
+CategoryStarModel
+dir
+
+StarCategoryModel
+dir
+
+LoginModel
+dir
+
+PhoneCardPayModel
+dir
+
+Images.xcassets
+dir
+
+hotRecommendModel
+dir
+
+SendApproveModel
+dir
+
+FirstRechargeModel
+dir
+
+GetOnlineStarList
+dir
+
+GeneralRankModel
+dir
+
+LiangModel
+dir
+
+RobSofaModel
+dir
+
+GetRoomServerForMobileStarModel
+dir
+
+QueryHotStarsModel
+dir
+
+StartupPageModel
+dir
+
+GlobaMessageLuckyModel
+dir
+
+ResetVerifyCodeModel
+dir
+
+GetOneField
+dir
+
+GiftRankModel
+dir
+
+AttentionModel
+dir
+
+LoginPosterModel
+dir
+
+SearchModel
+dir
+
+CanShowOnMobile
+dir
+
+SendShowTimeApproveModel
+dir
+
+GetUpPayOrderIDModel
+dir
+
+ChatMemberModel
+dir
+
+RoomManagerModel
+dir
+
+BarrageMessageModel
+dir
+
+BaseModel
+dir
+
+EnterRoomModel
+dir
+
+ReportModel
+dir
+
+BuyVIPModel
+dir
+
+UserButHistory.h
+file
+
+
+
+
+2016-03-07T10:15:24.000000Z
+5a3100d34f0d5ca4b3f126a5733af60b
+2015-10-29T07:38:29.062073Z
+631
+gaos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+764
+
+BeanTocoinModel
+dir
+
+VerifyAppStoreRechargeModel
+dir
+
+ChatMessageModel
+dir
+
+UserButHistory.m
+file
+
+
+
+
+2016-03-07T10:15:24.000000Z
+05833470c8653d63f0fea29b23e362a1
+2015-12-01T12:51:36.615739Z
+843
+gaos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2067
+
+AutoRegistModel
+dir
+
+FansModel
+dir
+
+GetRoomInfoModel
+dir
+
+QueryAllEmotionModel
+dir
+
+HomePageAdvertModel
+dir
+

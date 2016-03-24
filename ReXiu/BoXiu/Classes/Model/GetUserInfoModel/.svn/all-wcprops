@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ios/!svn/ver/1265/branches/ReXiu2.1.0/ReXiu/BoXiu/Classes/Model/GetUserInfoModel
+END
+GetUserInfoModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/Classes/Model/GetUserInfoModel/GetUserInfoModel.h
+END
+UserLogicModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/Classes/Model/GetUserInfoModel/UserLogicModel.h
+END
+updateCurrUserModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/Classes/Model/GetUserInfoModel/updateCurrUserModel.h
+END
+GetUserInfoModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/Classes/Model/GetUserInfoModel/GetUserInfoModel.m
+END
+UserLogicModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ios/!svn/ver/1265/branches/ReXiu2.1.0/ReXiu/BoXiu/Classes/Model/GetUserInfoModel/UserLogicModel.m
+END
+updateCurrUserModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/Classes/Model/GetUserInfoModel/updateCurrUserModel.m
+END

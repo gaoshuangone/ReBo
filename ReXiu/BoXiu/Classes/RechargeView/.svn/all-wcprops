@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ios/!svn/ver/1243/branches/ReXiu2.1.0/ReXiu/BoXiu/Classes/RechargeView
+END
+AppStoreRechargeViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/Classes/RechargeView/AppStoreRechargeViewController.h
+END
+RechargeViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/Classes/RechargeView/RechargeViewController.h
+END
+Recharge.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/Classes/RechargeView/Recharge.h
+END
+SelectModePaymentViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/Classes/RechargeView/SelectModePaymentViewController.h
+END
+AppStoreRechargeViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/Classes/RechargeView/AppStoreRechargeViewController.m
+END
+PhoneCardViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/Classes/RechargeView/PhoneCardViewController.h
+END
+RechHistoryCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/Classes/RechargeView/RechHistoryCell.h
+END
+RechargeViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ios/!svn/ver/1243/branches/ReXiu2.1.0/ReXiu/BoXiu/Classes/RechargeView/RechargeViewController.m
+END
+Recharge.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/Classes/RechargeView/Recharge.m
+END
+SelectModePaymentViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/Classes/RechargeView/SelectModePaymentViewController.m
+END
+PhoneCardViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/Classes/RechargeView/PhoneCardViewController.m
+END
+RechHistoryCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/Classes/RechargeView/RechHistoryCell.m
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ios/!svn/ver/1518/branches/ReXiu2.1.0/ReXiu/BoXiu/Classes/RankView
+END
+GeneralRankCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/Classes/RankView/GeneralRankCell.h
+END
+RankViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/Classes/RankView/RankViewController.h
+END
+GeneralRankCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ios/!svn/ver/1518/branches/ReXiu2.1.0/ReXiu/BoXiu/Classes/RankView/GeneralRankCell.m
+END
+RankViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ios/!svn/ver/1493/branches/ReXiu2.1.0/ReXiu/BoXiu/Classes/RankView/RankViewController.m
+END
+GrabStarRankCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ios/!svn/ver/950/branches/ReXiu2.1.0/ReXiu/BoXiu/Classes/RankView/GrabStarRankCell.h
+END
+GrabStarRankCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ios/!svn/ver/1518/branches/ReXiu2.1.0/ReXiu/BoXiu/Classes/RankView/GrabStarRankCell.m
+END
