@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ios/!svn/ver/1528/branches/ReXiu2.1.1/EWPLib/EWPLib/EWPHeader/ExternLibs/AFNetworking/AFNetworking/NSURLConnection
+END
+AFURLConnectionOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/ios/!svn/ver/1528/branches/ReXiu2.1.1/EWPLib/EWPLib/EWPHeader/ExternLibs/AFNetworking/AFNetworking/NSURLConnection/AFURLConnectionOperation.h
+END
+AFHTTPRequestOperationManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/ios/!svn/ver/1528/branches/ReXiu2.1.1/EWPLib/EWPLib/EWPHeader/ExternLibs/AFNetworking/AFNetworking/NSURLConnection/AFHTTPRequestOperationManager.h
+END
+AFHTTPRequestOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/ios/!svn/ver/1528/branches/ReXiu2.1.1/EWPLib/EWPLib/EWPHeader/ExternLibs/AFNetworking/AFNetworking/NSURLConnection/AFHTTPRequestOperation.h
+END

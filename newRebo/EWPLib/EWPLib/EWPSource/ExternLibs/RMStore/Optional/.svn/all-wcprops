@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ios/!svn/ver/1528/branches/ReXiu2.1.1/EWPLib/EWPLib/EWPSource/ExternLibs/RMStore/Optional
+END
+RMStoreAppReceiptVerificator.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/ios/!svn/ver/1528/branches/ReXiu2.1.1/EWPLib/EWPLib/EWPSource/ExternLibs/RMStore/Optional/RMStoreAppReceiptVerificator.m
+END
+RMStoreUserDefaultsPersistence.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/ios/!svn/ver/1528/branches/ReXiu2.1.1/EWPLib/EWPLib/EWPSource/ExternLibs/RMStore/Optional/RMStoreUserDefaultsPersistence.m
+END
+RMAppReceipt.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ios/!svn/ver/1528/branches/ReXiu2.1.1/EWPLib/EWPLib/EWPSource/ExternLibs/RMStore/Optional/RMAppReceipt.m
+END
+RMStoreTransactionReceiptVerificator.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/ios/!svn/ver/1528/branches/ReXiu2.1.1/EWPLib/EWPLib/EWPSource/ExternLibs/RMStore/Optional/RMStoreTransactionReceiptVerificator.m
+END
+RMStoreKeychainPersistence.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/ios/!svn/ver/1528/branches/ReXiu2.1.1/EWPLib/EWPLib/EWPSource/ExternLibs/RMStore/Optional/RMStoreKeychainPersistence.m
+END
+RMStoreTransaction.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ios/!svn/ver/1528/branches/ReXiu2.1.1/EWPLib/EWPLib/EWPSource/ExternLibs/RMStore/Optional/RMStoreTransaction.m
+END

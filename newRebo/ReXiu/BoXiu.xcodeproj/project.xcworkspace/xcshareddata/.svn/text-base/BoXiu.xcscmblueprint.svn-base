@@ -1,0 +1,45 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4151f5ca-1f8f-114c-bab6-b7b6c05e1976++9188+++66D423D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "4151f5ca-1f8f-114c-bab6-b7b6c05e1976++9188+++B6437D8" : {
+
+    },
+    "4151f5ca-1f8f-114c-bab6-b7b6c05e1976++9188+++66D423D" : {
+
+    },
+    "4151f5ca-1f8f-114c-bab6-b7b6c05e1976++9188+++54F1470" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4151f5ca-1f8f-114c-bab6-b7b6c05e1976++9188+++B6437D8" : 0,
+    "4151f5ca-1f8f-114c-bab6-b7b6c05e1976++9188+++66D423D" : 0,
+    "4151f5ca-1f8f-114c-bab6-b7b6c05e1976++9188+++54F1470" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "14EF6289-0242-4D87-A805-DB10505F8A2B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4151f5ca-1f8f-114c-bab6-b7b6c05e1976++9188+++B6437D8" : "ReXiu2.1.0\/",
+    "4151f5ca-1f8f-114c-bab6-b7b6c05e1976++9188+++66D423D" : "ReXiu2.1.1\/",
+    "4151f5ca-1f8f-114c-bab6-b7b6c05e1976++9188+++54F1470" : "ReXiu2.1.0\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BoXiu",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ReXiu\/BoXiu.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.1.225\/svn\/ios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4151f5ca-1f8f-114c-bab6-b7b6c05e1976++9188+++54F1470"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.1.225\/svn\/ios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4151f5ca-1f8f-114c-bab6-b7b6c05e1976++9188+++66D423D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.1.225\/svn\/ios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4151f5ca-1f8f-114c-bab6-b7b6c05e1976++9188+++B6437D8"
+    }
+  ]
+}

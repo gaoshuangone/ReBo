@@ -1,0 +1,837 @@
+10
+
+dir
+1564
+https://gaos@192.168.1.225/svn/ios/branches/ReXiu2.1.1/ReXiu/BoXiu/Classes/Model
+https://gaos@192.168.1.225/svn/ios
+
+
+
+2016-04-08T02:56:20.593414Z
+1561
+gaos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4151f5ca-1f8f-114c-bab6-b7b6c05e1976
+
+StarGiftRankModel
+dir
+
+QueryStarModel
+dir
+
+GetVerifyCodeModel
+dir
+
+ConfirmTxModel.h
+file
+
+
+
+
+2016-04-19T03:43:05.000000Z
+fcdc4e38ee3606479d4c0036140a40e9
+2016-04-05T05:51:44.097837Z
+1529
+wangbw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+201
+
+UpdataPersonInfo
+dir
+
+CarOrderModel
+dir
+
+BroadcastModel
+dir
+
+ThirdLoginModel
+dir
+
+ScrollMessageModel
+dir
+
+GetPraisenumModel
+dir
+
+GetRecommendStarModel
+dir
+
+HeartModel
+dir
+
+ConfirmTxModel.m
+file
+
+
+
+
+2016-04-19T03:43:05.000000Z
+ab730cca87520477bd60c5cf44a898a7
+2016-04-05T05:51:44.097837Z
+1529
+wangbw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+414
+
+GetConfigModel
+dir
+
+TheCarModel
+dir
+
+UserEnterRoomModel
+dir
+
+superRankModel
+dir
+
+ShowTimeRankModel
+dir
+
+PosterModel
+dir
+
+TakeoutModel
+dir
+
+SetAutoRegistPwdModel
+dir
+
+WeixinPayModel
+dir
+
+IdentityVerifyModel
+dir
+
+TakeBackHistary.h
+file
+
+
+
+
+2016-04-19T03:43:05.000000Z
+78a8b20e391c767d06144420ba31bd0a
+2016-04-05T05:51:44.097837Z
+1529
+wangbw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+971
+
+HallModel
+dir
+
+RechargeModel
+dir
+
+CheckupModel
+dir
+
+TakeBackHistary.m
+file
+
+
+
+
+2016-04-19T03:43:05.000000Z
+ddf1abd7f6587d8342aa554aa8f475ce
+2016-04-05T05:51:44.097837Z
+1529
+wangbw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2739
+
+updateIntroductionmodel
+dir
+
+StopLIvingModel.h
+file
+
+
+
+
+2016-04-19T03:43:05.000000Z
+205b50b75975280eb4ce01b6a4e85615
+2016-04-05T05:51:44.097837Z
+1529
+wangbw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+204
+
+QueryLiveSchedulesModel
+dir
+
+SignInModel
+dir
+
+InviterFriend
+dir
+
+PageQueryModel.h
+file
+
+
+
+
+2016-04-19T03:43:05.000000Z
+a0fbd9f68daae1bf3bb907d1cbfd231b
+2016-04-05T05:51:44.097837Z
+1529
+wangbw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+915
+
+StopLIvingModel.m
+file
+
+
+
+
+2016-04-19T03:43:05.000000Z
+5a2bda109bd867d607e1febb9a6d3b3d
+2016-04-05T05:51:44.097837Z
+1529
+wangbw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+422
+
+TopProgramModel
+dir
+
+GetUserInfoModel
+dir
+
+SpecialRankModel
+dir
+
+BindVerifyCodeModel
+dir
+
+GetOneLevelCategoryStarListModel
+dir
+
+PageQueryModel.m
+file
+
+
+
+
+2016-04-19T03:43:05.000000Z
+6bc01a20c4f781ed13fe5ee73962d4e7
+2016-04-05T05:51:44.097837Z
+1529
+wangbw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4637
+
+QueryGift
+dir
+
+HideRechargeMenuModel
+dir
+
+GetShowTimeStateModel
+dir
+
+AuthModel
+dir
+
+ChoseMusicModel
+dir
+
+GiveGiftModel
+dir
+
+GlobalMessageModel
+dir
+
+BuyLiangModel
+dir
+
+ModifyPasswordModel
+dir
+
+GetApproveModel
+dir
+
+GetRoomImageModel
+dir
+
+LevelUpgradeModel
+dir
+
+RoomMessageModel
+dir
+
+RegisterModel
+dir
+
+SofaListModel
+dir
+
+FeedBackModel
+dir
+
+InitViewModel.h
+file
+
+
+
+
+2016-04-19T03:43:05.000000Z
+165ed1b929c6daf8259717d06535982b
+2016-04-05T05:51:44.097837Z
+1529
+wangbw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+199
+
+WeixinOrderqueryModel
+dir
+
+VersionModel
+dir
+
+FreeTicketModel
+dir
+
+ShowTimeEndModel
+dir
+
+PublicTalkSettingModel
+dir
+
+CrownModel
+dir
+
+ShowTimeDataModel
+dir
+
+InitViewModel.m
+file
+
+
+
+
+2016-04-19T03:43:05.000000Z
+3f50f35641722eaa076f5ad7a0b14676
+2016-04-05T05:51:44.097837Z
+1529
+wangbw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+410
+
+GetTradeNoModel
+dir
+
+ActivityModel
+dir
+
+GetStarPraiseNumModel
+dir
+
+AttentionNotifyModel
+dir
+
+GetTwoLevelCategoryModel
+dir
+
+SetInvisibleModel
+dir
+
+SuperRankModel.h
+file
+
+
+
+
+2016-04-19T03:43:05.000000Z
+6c140058acfa1223aeb0499eef3f60bf
+2016-04-05T05:51:44.097837Z
+1529
+wangbw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+199
+
+QueryMusicListModel
+dir
+
+GetSystemTimeModel
+dir
+
+QueryOnLineStarModel
+dir
+
+BindMobileModel
+dir
+
+GetUserCarModel
+dir
+
+ResetPasswordModel
+dir
+
+SuperRankModel.m
+file
+
+
+
+
+2016-04-19T03:43:05.000000Z
+523581ac4a8958da573c36f28a0ecb13
+2016-04-05T05:51:44.097837Z
+1529
+wangbw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+197
+
+GlobalMessageMusicModel
+dir
+
+StarCategoryModel
+dir
+
+CategoryStarModel
+dir
+
+GetOneLevelCategoryModel
+dir
+
+GetStreamInfoModel
+dir
+
+LoginModel
+dir
+
+PhoneCardPayModel
+dir
+
+Images.xcassets
+dir
+
+hotRecommendModel
+dir
+
+SendApproveModel
+dir
+
+FirstRechargeModel
+dir
+
+GeneralRankModel
+dir
+
+GetOnlineStarList
+dir
+
+LiangModel
+dir
+
+RobSofaModel
+dir
+
+GetRoomServerForMobileStarModel
+dir
+
+QueryHotStarsModel
+dir
+
+StartupPageModel
+dir
+
+GlobaMessageLuckyModel
+dir
+
+ResetVerifyCodeModel
+dir
+
+GetOneField
+dir
+
+SearchModel
+dir
+
+LoginPosterModel
+dir
+
+AttentionModel
+dir
+
+GiftRankModel
+dir
+
+SendShowTimeApproveModel
+dir
+
+CanShowOnMobile
+dir
+
+GetUpPayOrderIDModel
+dir
+
+ChatMemberModel
+dir
+
+RoomManagerModel
+dir
+
+BarrageMessageModel
+dir
+
+BaseModel
+dir
+
+EnterRoomModel
+dir
+
+ReportModel
+dir
+
+BuyVIPModel
+dir
+
+UserButHistory.h
+file
+
+
+
+
+2016-04-19T03:43:05.000000Z
+5a3100d34f0d5ca4b3f126a5733af60b
+2016-04-05T05:51:44.097837Z
+1529
+wangbw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+764
+
+BeanTocoinModel
+dir
+
+VerifyAppStoreRechargeModel
+dir
+
+ChatMessageModel
+dir
+
+UserButHistory.m
+file
+
+
+
+
+2016-04-19T03:43:05.000000Z
+05833470c8653d63f0fea29b23e362a1
+2016-04-05T05:51:44.097837Z
+1529
+wangbw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2067
+
+AutoRegistModel
+dir
+
+FansModel
+dir
+
+GetRoomInfoModel
+dir
+
+QueryAllEmotionModel
+dir
+
+HomePageAdvertModel
+dir
+

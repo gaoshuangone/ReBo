@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>[拜拜]</key>
+	<string>em1.png</string>
+	<key>[抱歉]</key>
+	<string>em2.png</string>
+	<key>[鼻血]</key>
+	<string>em3.png</string>
+	<key>[大笑]</key>
+	<string>em4.png</string>
+	<key>[愤怒]</key>
+	<string>em5.png</string>
+	<key>[感动]</key>
+	<string>em6.png</string>
+	<key>[高兴]</key>
+	<string>em7.png</string>
+	<key>[鼓掌]</key>
+	<string>em8.png</string>
+	<key>[鬼脸]</key>
+	<string>em9.png</string>
+	<key>[哈欠]</key>
+	<string>em10.png</string>
+	<key>[汗]</key>
+	<string>em11.png</string>
+	<key>[囧]</key>
+	<string>em12.png</string>
+	<key>[可怜]</key>
+	<string>em13.png</string>
+	<key>[抠鼻]</key>
+	<string>em14.png</string>
+	<key>[口水]</key>
+	<string>em15.png</string>
+	<key>[亲亲]</key>
+	<string>em16.png</string>
+	<key>[色眯眯]</key>
+	<string>em17.png</string>
+	<key>[陶醉]</key>
+	<string>em18.png</string>
+	<key>[痛哭]</key>
+	<string>em19.png</string>
+	<key>[偷笑]</key>
+	<string>em20.png</string>
+	<key>[邪恶]</key>
+	<string>em21.png</string>
+	<key>[疑问]</key>
+	<string>em22.png</string>
+	<key>[悠闲]</key>
+	<string>em23.png</string>
+	<key>[郁闷]</key>
+	<string>em24.png</string>
+	<key>[晕]</key>
+	<string>em25.png</string>
+	<key>[震惊]</key>
+	<string>em26.png</string>
+</dict>
+</plist>

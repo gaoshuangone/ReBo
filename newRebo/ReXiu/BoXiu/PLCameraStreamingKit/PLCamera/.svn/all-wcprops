@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/PLCameraStreamingKit/PLCamera
+END
+PLCameraSource.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/PLCameraStreamingKit/PLCamera/PLCameraSource.m
+END
+.gitkeep
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/PLCameraStreamingKit/PLCamera/.gitkeep
+END
+PLAACTypeDefines.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/PLCameraStreamingKit/PLCamera/PLAACTypeDefines.h
+END
+PLMicrophoneSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/PLCameraStreamingKit/PLCamera/PLMicrophoneSource.h
+END
+PLSourceAccessProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/PLCameraStreamingKit/PLCamera/PLSourceAccessProtocol.h
+END
+PLCameraStreamingSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/PLCameraStreamingKit/PLCamera/PLCameraStreamingSession.h
+END
+PLCameraSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/PLCameraStreamingKit/PLCamera/PLCameraSource.h
+END
+PLMicrophoneSource.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/PLCameraStreamingKit/PLCamera/PLMicrophoneSource.m
+END
+PLCameraStreamingKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/PLCameraStreamingKit/PLCamera/PLCameraStreamingKit.h
+END
+PLCameraStreamingSession.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/PLCameraStreamingKit/PLCamera/PLCameraStreamingSession.m
+END

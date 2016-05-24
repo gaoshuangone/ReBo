@@ -1,0 +1,77 @@
+10
+
+dir
+1564
+https://gaos@192.168.1.225/svn/ios/branches/ReXiu2.1.1/EWPLib/EWPLib/EWPHeader/ExternLibs/AFNetworking/AFNetworking
+https://gaos@192.168.1.225/svn/ios
+
+
+
+2016-04-05T05:45:00.010328Z
+1528
+wangbw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4151f5ca-1f8f-114c-bab6-b7b6c05e1976
+
+Reachability
+dir
+
+NSURLConnection
+dir
+
+AFNetworking.h
+file
+
+
+
+
+2016-04-19T03:43:25.000000Z
+49f5535210f638e58415f97c67ed3b71
+2016-04-05T05:45:00.010328Z
+1528
+wangbw
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1866
+
+NSURLSession
+dir
+
+Security
+dir
+
+Serialization
+dir
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/image/message
+END
+message_normal@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/image/message/message_normal@2x.png
+END
+message_selected@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/image/message/message_selected@2x.png
+END
+deleteMessage_normal@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/image/message/deleteMessage_normal@2x.png
+END
+deleteMessage_selected@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/image/message/deleteMessage_selected@2x.png
+END

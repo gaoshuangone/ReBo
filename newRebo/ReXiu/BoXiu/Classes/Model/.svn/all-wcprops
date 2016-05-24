@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ios/!svn/ver/1561/branches/ReXiu2.1.1/ReXiu/BoXiu/Classes/Model
+END
+TakeBackHistary.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/Classes/Model/TakeBackHistary.h
+END
+ConfirmTxModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/Classes/Model/ConfirmTxModel.h
+END
+SuperRankModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/Classes/Model/SuperRankModel.h
+END
+UserButHistory.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/Classes/Model/UserButHistory.h
+END
+TakeBackHistary.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/Classes/Model/TakeBackHistary.m
+END
+InitViewModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/Classes/Model/InitViewModel.h
+END
+ConfirmTxModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/Classes/Model/ConfirmTxModel.m
+END
+StopLIvingModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/Classes/Model/StopLIvingModel.h
+END
+SuperRankModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/Classes/Model/SuperRankModel.m
+END
+UserButHistory.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/Classes/Model/UserButHistory.m
+END
+PageQueryModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/Classes/Model/PageQueryModel.h
+END
+InitViewModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/Classes/Model/InitViewModel.m
+END
+StopLIvingModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/Classes/Model/StopLIvingModel.m
+END
+PageQueryModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/Classes/Model/PageQueryModel.m
+END

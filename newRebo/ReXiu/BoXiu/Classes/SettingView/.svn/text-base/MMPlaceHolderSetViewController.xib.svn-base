@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9531" systemVersion="15C50" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="MMPlaceHolderSetViewController">
+            <connections>
+                <outlet property="switch1" destination="ZMj-bP-bh3" id="9zG-ob-wZV"/>
+                <outlet property="switch2" destination="6lX-N0-gz6" id="YTK-iK-FQp"/>
+                <outlet property="switch3" destination="GWB-00-em2" id="xEg-Ga-G50"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="图片开关" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cMR-lg-dZ8">
+                    <rect key="frame" x="-42" y="-21" width="42" height="21"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                    <variation key="heightClass=regular" fixedFrame="YES">
+                        <rect key="frame" x="18" y="57" width="77" height="34"/>
+                    </variation>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="文字开关" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="A1u-N4-yUK">
+                    <rect key="frame" x="-42" y="-21" width="42" height="21"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                    <variation key="heightClass=regular" fixedFrame="YES">
+                        <rect key="frame" x="18" y="99" width="77" height="34"/>
+                    </variation>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="是否可见" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9vj-Ib-2XC">
+                    <rect key="frame" x="-42" y="-21" width="42" height="21"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                    <variation key="heightClass=regular" fixedFrame="YES">
+                        <rect key="frame" x="18" y="15" width="77" height="34"/>
+                    </variation>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="是否带箭头" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="btl-dA-5nq">
+                    <rect key="frame" x="-42" y="-21" width="42" height="21"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                    <variation key="heightClass=regular" fixedFrame="YES">
+                        <rect key="frame" x="18" y="141" width="85" height="34"/>
+                    </variation>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="是否显示system" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FH5-u6-wFM">
+                    <rect key="frame" x="-42" y="-21" width="42" height="21"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                    <variation key="heightClass=regular" fixedFrame="YES">
+                        <rect key="frame" x="13" y="181" width="123" height="34"/>
+                    </variation>
+                </label>
+                <button opaque="NO" tag="6" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ut7-kj-gGG">
+                    <rect key="frame" x="-23" y="-15" width="46" height="30"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <state key="normal" title="white"/>
+                    <variation key="heightClass=regular" fixedFrame="YES">
+                        <rect key="frame" x="18" y="234" width="93" height="28"/>
+                    </variation>
+                    <connections>
+                        <action selector="buttonPressed:" destination="-1" eventType="touchUpInside" id="DqW-sa-paF"/>
+                    </connections>
+                </button>
+                <button opaque="NO" tag="8" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="XIb-QE-lww">
+                    <rect key="frame" x="-23" y="-15" width="46" height="30"/>
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <state key="normal" title="bleack"/>
+                    <variation key="heightClass=regular" fixedFrame="YES">
+                        <rect key="frame" x="18" y="292" width="93" height="26"/>
+                    </variation>
+                    <connections>
+                        <action selector="buttonPressed:" destination="-1" eventType="touchUpInside" id="OxS-TH-MPv"/>
+                    </connections>
+                </button>
+                <button opaque="NO" tag="9" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9BH-SA-8Hh">
+                    <rect key="frame" x="-23" y="-15" width="46" height="30"/>
+                    <color key="backgroundColor" red="1" green="1" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <state key="normal" title="yellow"/>
+                    <variation key="heightClass=regular" fixedFrame="YES">
+                        <rect key="frame" x="197" y="292" width="93" height="28"/>
+                    </variation>
+                    <connections>
+                        <action selector="buttonPressed:" destination="-1" eventType="touchUpInside" id="2dE-yC-Ouf"/>
+                    </connections>
+                </button>
+                <button opaque="NO" tag="7" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wGP-IF-8dr">
+                    <rect key="frame" x="-23" y="-15" width="46" height="30"/>
+                    <color key="backgroundColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <state key="normal" title="red"/>
+                    <variation key="heightClass=regular" fixedFrame="YES">
+                        <rect key="frame" x="197" y="234" width="93" height="27"/>
+                    </variation>
+                    <connections>
+                        <action selector="buttonPressed:" destination="-1" eventType="touchUpInside" id="e3f-bo-cAY"/>
+                    </connections>
+                </button>
+                <switch opaque="NO" tag="1" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="ZMj-bP-bh3">
+                    <rect key="frame" x="-25" y="-15" width="51" height="31"/>
+                    <variation key="heightClass=regular" fixedFrame="YES">
+                        <rect key="frame" x="219" y="16" width="51" height="31"/>
+                    </variation>
+                    <connections>
+                        <action selector="switchChange:" destination="-1" eventType="valueChanged" id="GTq-NK-w98"/>
+                    </connections>
+                </switch>
+                <switch opaque="NO" tag="4" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="n1u-nc-WZy">
+                    <rect key="frame" x="-25" y="-15" width="51" height="31"/>
+                    <variation key="heightClass=regular" fixedFrame="YES">
+                        <rect key="frame" x="219" y="141" width="51" height="31"/>
+                    </variation>
+                    <connections>
+                        <action selector="switchChange:" destination="-1" eventType="valueChanged" id="pg9-Pq-iCx"/>
+                    </connections>
+                </switch>
+                <switch opaque="NO" tag="3" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="GWB-00-em2">
+                    <rect key="frame" x="-25" y="-15" width="51" height="31"/>
+                    <variation key="heightClass=regular" fixedFrame="YES">
+                        <rect key="frame" x="219" y="100" width="51" height="31"/>
+                    </variation>
+                    <connections>
+                        <action selector="switchChange:" destination="-1" eventType="valueChanged" id="q1s-Qh-TmB"/>
+                    </connections>
+                </switch>
+                <switch opaque="NO" tag="5" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="3SK-PR-wmN">
+                    <rect key="frame" x="-25" y="-15" width="51" height="31"/>
+                    <variation key="heightClass=regular" fixedFrame="YES">
+                        <rect key="frame" x="219" y="182" width="51" height="31"/>
+                    </variation>
+                    <connections>
+                        <action selector="switchChange:" destination="-1" eventType="valueChanged" id="ooP-AW-4oG"/>
+                    </connections>
+                </switch>
+                <switch opaque="NO" tag="2" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="6lX-N0-gz6">
+                    <rect key="frame" x="-25" y="-15" width="51" height="31"/>
+                    <variation key="heightClass=regular" fixedFrame="YES">
+                        <rect key="frame" x="219" y="58" width="51" height="31"/>
+                    </variation>
+                    <connections>
+                        <action selector="switchChange:" destination="-1" eventType="valueChanged" id="fMT-MD-ix9"/>
+                    </connections>
+                </switch>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <variation key="default">
+                <mask key="subviews">
+                    <exclude reference="cMR-lg-dZ8"/>
+                    <exclude reference="A1u-N4-yUK"/>
+                    <exclude reference="9vj-Ib-2XC"/>
+                    <exclude reference="btl-dA-5nq"/>
+                    <exclude reference="FH5-u6-wFM"/>
+                    <exclude reference="Ut7-kj-gGG"/>
+                    <exclude reference="XIb-QE-lww"/>
+                    <exclude reference="9BH-SA-8Hh"/>
+                    <exclude reference="wGP-IF-8dr"/>
+                    <exclude reference="ZMj-bP-bh3"/>
+                    <exclude reference="n1u-nc-WZy"/>
+                    <exclude reference="GWB-00-em2"/>
+                    <exclude reference="3SK-PR-wmN"/>
+                    <exclude reference="6lX-N0-gz6"/>
+                </mask>
+            </variation>
+            <variation key="heightClass=regular">
+                <mask key="subviews">
+                    <include reference="cMR-lg-dZ8"/>
+                    <include reference="A1u-N4-yUK"/>
+                    <include reference="9vj-Ib-2XC"/>
+                    <include reference="btl-dA-5nq"/>
+                    <include reference="FH5-u6-wFM"/>
+                    <include reference="Ut7-kj-gGG"/>
+                    <include reference="XIb-QE-lww"/>
+                    <include reference="9BH-SA-8Hh"/>
+                    <include reference="wGP-IF-8dr"/>
+                    <include reference="ZMj-bP-bh3"/>
+                    <include reference="n1u-nc-WZy"/>
+                    <include reference="GWB-00-em2"/>
+                    <include reference="3SK-PR-wmN"/>
+                    <include reference="6lX-N0-gz6"/>
+                </mask>
+            </variation>
+            <point key="canvasLocation" x="615" y="445"/>
+        </view>
+    </objects>
+</document>

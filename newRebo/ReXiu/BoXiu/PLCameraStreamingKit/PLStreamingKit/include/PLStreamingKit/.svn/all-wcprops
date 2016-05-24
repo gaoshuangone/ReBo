@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/PLCameraStreamingKit/PLStreamingKit/include/PLStreamingKit
+END
+PLStreamingSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/PLCameraStreamingKit/PLStreamingKit/include/PLStreamingKit/PLStreamingSession.h
+END
+PLMacroDefines.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/PLCameraStreamingKit/PLStreamingKit/include/PLStreamingKit/PLMacroDefines.h
+END
+PLStreamStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/PLCameraStreamingKit/PLStreamingKit/include/PLStreamingKit/PLStreamStatus.h
+END
+PLTypeDefines.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/PLCameraStreamingKit/PLStreamingKit/include/PLStreamingKit/PLTypeDefines.h
+END
+PLStreamingKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/PLCameraStreamingKit/PLStreamingKit/include/PLStreamingKit/PLStreamingKit.h
+END
+PLAudioStreamingConfiguration.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/PLCameraStreamingKit/PLStreamingKit/include/PLStreamingKit/PLAudioStreamingConfiguration.h
+END
+PLVideoStreamingConfiguration.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/PLCameraStreamingKit/PLStreamingKit/include/PLStreamingKit/PLVideoStreamingConfiguration.h
+END
+PLBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/PLCameraStreamingKit/PLStreamingKit/include/PLStreamingKit/PLBuffer.h
+END
+PLStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ios/!svn/ver/1529/branches/ReXiu2.1.1/ReXiu/BoXiu/PLCameraStreamingKit/PLStreamingKit/include/PLStreamingKit/PLStream.h
+END
